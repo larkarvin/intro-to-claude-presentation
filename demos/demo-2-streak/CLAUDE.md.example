@@ -1,0 +1,37 @@
+# Streak — a habit tracker
+
+A small, pure-frontend habit tracker. **This file is the source of truth for how we work.**
+Read it and follow it on every prompt.
+
+## What we're building
+A user can add habits, mark them done today, see a streak (consecutive days done),
+delete habits, and have everything persist across page refreshes.
+
+## Stack — fixed, do not change without asking
+- React + Vite
+- Tailwind CSS for styling
+- localStorage for persistence
+- **No** backend, **no** accounts, **no** network calls
+- **No** new dependencies beyond the above without asking first
+
+## How we work
+- Work in **small steps**. After each step, tell me exactly how to run and verify it.
+- Show me what you changed before moving on.
+- If a requirement is ambiguous, **ask before coding** — don't guess.
+- **Never add features I didn't ask for.** Suggest them instead.
+- Never merge or assume something is done until I've confirmed it works.
+
+## Code style
+- Small, single-purpose components and files.
+- All habit/date logic (e.g. streak counting) must be **plain, pure, testable functions**.
+- Clear names over clever code. Readable beats short.
+
+## Definition of done (the MVP)
+1. Add a habit by name.
+2. Toggle "done today" per habit.
+3. Show the current streak as "🔥 N".
+4. Delete a habit.
+5. Persists across page refresh.
+
+## Out of scope — do NOT build unless I ask
+Accounts, sync, charts, reminders, categories, editing habit names, notifications.
