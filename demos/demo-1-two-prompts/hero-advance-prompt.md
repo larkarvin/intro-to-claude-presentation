@@ -1,4 +1,4 @@
-Build a fullscreen hero landing page on a folder called `landing-hero-advance`. this is a developer called "ARBEN". The page should be a single viewport-height section with a looping background video and all content overlaid on top.
+Build a fullscreen hero landing page on a folder called `landing-hero-advance-prompt`. this is a developer called "ARBEN". The page should be a single viewport-height section with a looping background video and all content overlaid on top.
 
 **Video Background:**
 - URL: `https://media.istockphoto.com/id/1677482278/video/aurora-green-and-milky-way-galaxy-over-horizon-loop-35mm.mp4?s=mp4-640x640-is&k=20&c=w4rQ7VXL69w64I4VKTsZebLvgZfUzza7cOTrP2Mmcn4=`
