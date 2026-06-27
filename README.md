@@ -4,6 +4,8 @@
 
 > **An intro session by Karl Arvin Almario. A free community jam, not a course.**
 
+> **Watch the recording:** [youtu.be/A7kqhxOaj1Y](https://youtu.be/A7kqhxOaj1Y)
+
 ## The story
 
 A college friend asked me to teach her **vibe coding**: building software by directing an AI instead of typing every line. Instead of teaching just one person, I figured, why not open it up? So this became a free, informal intro session for **anyone** who's curious, beginners especially welcome.
