@@ -33,6 +33,7 @@ The invite that went out:
 
 ## What's inside
 
+- **[`TRANSCRIPT.md`](TRANSCRIPT.md)**: notes from the live session, the recording link, takeaways, demo walkthrough, and the Q&A.
 - **[`SCRIPT.md`](SCRIPT.md)**: the lean run-of-show. Timing and what to say, slide by slide, plus the two demos. Start here to run the talk.
 - **[`PREP.md`](PREP.md)**: everything you do *before* the talk, pre-flight checklist, recording/OBS setup, and the full prompts used to build the demo app.
 - **`slides/`**: the presentation, as a single self-contained HTML file (two themes).
@@ -43,6 +44,7 @@ The invite that went out:
 ```
 demo-kit/
 ├── README.md                       ← you are here
+├── TRANSCRIPT.md                   ← session notes, recording link, takeaways, Q&A
 ├── SCRIPT.md                       ← lean run-of-show (start here to run the talk)
 ├── PREP.md                         ← pre-flight, recording setup, full build prompts
 │
